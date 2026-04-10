@@ -1,0 +1,12 @@
+# Archivos de configuración local
+.env
+*.config
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos compilados
+*.class
+*.exe
+*.dll
